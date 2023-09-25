@@ -32,6 +32,7 @@ url: "https://solinemorel-doula.fr" # the base hostname & protocol for your site
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 locale: "fr-FR"
+include: ["_pages"]
 plugins:
   - jekyll-feed
   - jekyll-include-cache
