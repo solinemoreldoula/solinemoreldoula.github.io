@@ -29,7 +29,9 @@ url: "https://solinemorel-doula.fr" # the base hostname & protocol for your site
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+locale: "fr-FR"
 plugins:
   - jekyll-feed
 
