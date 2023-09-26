@@ -7,6 +7,9 @@
 /* Variables */
 $majorelle: #081697;
 $link-color: $majorelle;
+.page__footer-copyright {
+  display: none;
+}
 /*$header-font-family: "Calisto MT", serif !default;
 $global-font-family: Garamond, serif !default;
 $caption-font-family: Georgia, Times, serif !default;*/
