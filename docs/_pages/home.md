@@ -20,6 +20,7 @@ hidden: true
   
 </div>
 
-<div class="home-quote">
-"Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur. La beauté est dans les yeux de celui qui regarde. Fais de ta vie un rêve, et d'un rêve, une réalité. Le souvenir, c'est la présence invisible."
-</div>
+<blockquote class="home-quote">
+L’amour maternel est un lien puissant qui unit les femmes du monde entier et leur donne des forces invincibles pour préserver la vie qu’elles donnent
+  <span>Anonyme - musée des femmes du Vietnam (Hanoï)</span>
+</blockquote>

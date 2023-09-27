@@ -74,6 +74,36 @@ body {
 .home-quote {
   margin: auto;
   max-width: 1200px;
+  font-size: 1em;
+  margin: 50px auto;
+  font-style: italic;
+  color: #555555;
+  padding: 1.2em 30px 1.2em 75px;
+  border-left: 8px solid $sarwell;
+  line-height: 1.6;
+  position: relative;
+  background: #ededed;
+}
+
+.home-quote::before {
+  content: "\201C";
+  color: $sarwell;
+  font-size: 4em;
+  position: absolute;
+  left: 20px;
+  top: -20px;
+}
+
+.home-quote::after {
+  content: "";
+}
+
+.home-quote span {
+  display: block;
+  color: #333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 1em;
 }
 
 /* Mixins and functions */
