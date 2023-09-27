@@ -10,13 +10,23 @@ $light-blue: #b7d8ff;
 $tiagipants: #4e9aec;
 $sarwell: #1b3e7e;
 $sarwell-light: #1f5595;
+$grayounet: #393939;
+$stroke-color: $grayounet;
+$transparent: rgba(255, 0, 0, 0);
+
 $link-color: $majorelle;
 $primary-color: $light-blue;
-$navbar-background: linear-gradient(45deg, $sarwell-light, $sarwell);
+$navbar-background: linear-gradient(90deg, $sarwell-light, 30%, $sarwell);
 $masthead-link-color: white;
 $masthead-link-color-hover: $light-blue;
 $masthead-link-color-visited: $masthead-link-color;
 
+.stroke {
+  color: white;
+  text-shadow: -2px -2px 0 $stroke-color, 0 -2px 0 $stroke-color,
+    2px -2px 0 $stroke-color, 2px 0 0 $stroke-color, 2px 2px 0 $stroke-color,
+    0 2px 0 $stroke-color, -2px 2px 0 $stroke-color, -2px 0 0 $stroke-color;
+}
 /* Fonts */
 @font-face {
   font-family: JubilBa;
@@ -26,25 +36,45 @@ $header-font-family: "JubilBa-Bold", serif !default;
 $global-font-family: $header-font-family;
 $caption-font-family: $global-font-family;
 $menu-font-family: $header-font-family;
-.page__footer-copyright {
-  display: none;
-}
-
-/* Navbar */
-.masthead {
+.page__footer {
   background-image: $navbar-background;
-  #site-nav {
-    background-image: $navbar-background;
-    a {
-      font-family: $menu-font-family;
+  footer {
+    color: white;
+    .page__footer-copyright {
+      display: none;
     }
   }
 }
 
 /* Sizes */
 $max-width: 100%;
+body {
+  overflow-x: hidden;
+}
 
 @import "minimal-mistakes/variables";
+
+/* Navbar */
+.masthead {
+  position: fixed !important;
+  width: 100vw;
+  background-image: $navbar-background;
+  #site-nav {
+    background-color: $transparent;
+    a {
+      font-family: $menu-font-family;
+    }
+  }
+}
+.initial-content {
+  padding-top: 4em;
+}
+
+/* Home */
+.home-quote {
+  margin: auto;
+  max-width: 1200px;
+}
 
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
