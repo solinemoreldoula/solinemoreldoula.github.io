@@ -4,16 +4,46 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
-/* Variables */
+/* Colors */
 $majorelle: #081697;
+$light-blue: #b7d8ff;
+$tiagipants: #4e9aec;
+$sarwell: #1b3e7e;
+$sarwell-light: #1f5595;
 $link-color: $majorelle;
+$primary-color: $light-blue;
+$navbar-background: linear-gradient(45deg, $sarwell-light, $sarwell);
+$masthead-link-color: white;
+$masthead-link-color-hover: $light-blue;
+$masthead-link-color-visited: $masthead-link-color;
+
+/* Fonts */
+@font-face {
+  font-family: JubilBa;
+  src: url("assets/fonts/JubilBa.otf") format("opentype");
+}
+$header-font-family: "JubilBa-Bold", serif !default;
+$global-font-family: $header-font-family;
+$caption-font-family: $global-font-family;
+$menu-font-family: $header-font-family;
 .page__footer-copyright {
   display: none;
 }
-/*$header-font-family: "Calisto MT", serif !default;
-$global-font-family: Garamond, serif !default;
-$caption-font-family: Georgia, Times, serif !default;*/
+
+/* Navbar */
+.masthead {
+  background-image: $navbar-background;
+  #site-nav {
+    background-image: $navbar-background;
+    a {
+      font-family: $menu-font-family;
+    }
+  }
+}
+
+/* Sizes */
 $max-width: 100%;
+
 @import "minimal-mistakes/variables";
 
 /* Mixins and functions */
