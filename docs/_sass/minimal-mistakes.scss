@@ -10,11 +10,15 @@ $light-blue: #b7d8ff;
 $tiagipants: #4e9aec;
 $sarwell: #1b3e7e;
 $sarwell-light: #1f5595;
-$grayounet: #393939;
+$sarwell-red: #7e1b3e;
+$grayounet: #39393940;
 $stroke-color: $grayounet;
 $transparent: rgba(255, 0, 0, 0);
+$focus-color: $sarwell;
 
-$link-color: $majorelle;
+$link-color: $sarwell;
+$link-color-hover: $sarwell-red;
+$link-color-visited: $sarwell;
 $primary-color: $light-blue;
 $navbar-background: linear-gradient(90deg, $sarwell-light, 30%, $sarwell);
 $masthead-link-color: white;
@@ -27,6 +31,13 @@ $masthead-link-color-visited: $masthead-link-color;
     2px -2px 0 $stroke-color, 2px 0 0 $stroke-color, 2px 2px 0 $stroke-color,
     0 2px 0 $stroke-color, -2px 2px 0 $stroke-color, -2px 0 0 $stroke-color;
 }
+h1 {
+  color: $sarwell;
+}
+.page__content a:not(.btn):hover {
+  font-weight: bold;
+}
+
 /* Fonts */
 @font-face {
   font-family: JubilBa;
@@ -104,6 +115,14 @@ body {
   font-style: normal;
   font-weight: bold;
   margin-top: 1em;
+}
+
+/* Carte */
+#map {
+  border: 4px solid $sarwell;
+  border-radius: 20px;
+  height: 60vh;
+  width: 60vw;
 }
 
 /* Mixins and functions */
