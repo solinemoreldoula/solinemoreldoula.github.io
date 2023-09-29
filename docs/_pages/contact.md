@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+classes: wide
 permalink: /contact
 title: "Contact"
 ---
