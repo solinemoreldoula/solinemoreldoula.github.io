@@ -4,9 +4,17 @@ permalink: /contact
 title: "Contact"
 ---
 
-Site en cours de construction
 
- <div id="map"/>
+Soline Morel<br/>
+<a href="mailto:solinemoreldoula@gmail.com">solinemoreldoula@gmail.com</a><br/>
+28 bis rue de la haute Lande <br/>
+44840 Les Sorinières
+
+ <!-- Map -->
+ <div id="map" ></div>
+ <p>
+<i>*Je me déplace gratuitement dans un rayon de 20km autour de mon domicile. Au delà, mes tarifs incluent des frais kilométriques.</i>
+</p>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin="">
@@ -34,8 +42,16 @@ Site en cours de construction
             minZoom: 1,
             maxZoom: 20
         }).addTo(myMap);
-        var polygon = L.polygon(latlngs, {color: 'blue'});
+        var polygon = L.polygon(latlngs, {color: '#1f5595'});
         polygon.addTo(myMap);
+
+        var elMarker = L.marker([lat, lon]);
+        elMarker.bindTooltip("Mon domicile*", 
+            {
+                permanent: true, 
+                direction: 'right'
+            });
+        elMarker.addTo(myMap);
 
         /*
         var circleOptions = {

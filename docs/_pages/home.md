@@ -20,7 +20,7 @@ hidden: true
   
 </div>
 
-<blockquote class="home-quote">
+<blockquote class="quote home">
 L’amour maternel est un lien puissant qui unit les femmes du monde entier et leur donne des forces invincibles pour préserver la vie qu’elles donnent
   <span>Anonyme - musée des femmes du Vietnam (Hanoï)</span>
 </blockquote>
