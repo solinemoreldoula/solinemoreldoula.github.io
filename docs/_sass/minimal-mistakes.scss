@@ -194,12 +194,16 @@ $right-sidebar-width-wide: 0px;
     }
 
     @include breakpoint($medium) {
+      flex-basis: 40%;
       margin-left: 0vw;
       margin-right: 0vw;
       height: 60vh;
       img {
         height: 60vh;
       }
+    }
+    @include breakpoint($large) {
+      flex-basis: 50%;
     }
   }
   .texte {
@@ -212,6 +216,7 @@ $right-sidebar-width-wide: 0px;
     color: white !important;
 
     @include breakpoint($medium) {
+      min-height: 300px;
       flex-basis: 50%;
       height: 50vh;
       margin-top: 5vh;
