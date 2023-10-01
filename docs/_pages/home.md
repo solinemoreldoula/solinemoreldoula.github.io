@@ -10,7 +10,7 @@ hidden: true
   </div>
 
    <div style="position:absolute;top:70vh;right:5vw;padding:10px;border-radius:15px">
-        <h1 style="font-size: max(6vh, 4vw);" class="stroke">      
+        <h1 style="font-size: max(5.5vh, 4vw);" class="stroke">      
             Soline Morel
         </h1>
           <p style="font-size: max(4vh, 3vw)" class="stroke">
