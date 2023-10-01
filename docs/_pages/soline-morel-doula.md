@@ -16,14 +16,14 @@ L’accueil de mes deux petits cœurs (en 2015 et 2018) m'a permis de vivre une 
 </div>
 
 
-<div class="image-texte">
-<div class="texte">
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/soline-morel-doula/sunset.jpg"/>
+    </div>
+    <div class="texte">
         Comme je n’aime pas rester dans l’inconfort de l’inconnu, je me suis plongée dans des lectures et des recherches sur la parentalité. J’ai découvert les travaux de Michel Odent, Isabelle Filliozat, Faber et Mazlish, Catherine Gueguen, Marie-Hélène Lahaye… 
 
         J’ai appris ce qu’était vraiment la physiologie de l’accouchement, mais aussi les violences que les femmes subissent pendant cette période de grande vulnérabilité. 
-    </div>
-    <div class="image">
-        <img src="/assets/images/soline-morel-doula/sunset.jpg"/>
     </div>
     
 </div>
@@ -43,14 +43,14 @@ L’accueil de mes deux petits cœurs (en 2015 et 2018) m'a permis de vivre une 
     
 </div>
 
-<div class="image-texte">
-<div class="texte">
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/soline-morel-doula/budda-tree.jpg"/>
+    </div>
+    <div class="texte">
         Comme je n’aime pas rester dans l’inconfort de l’inconnu, je me suis plongée dans des lectures et des recherches sur la parentalité. J’ai découvert les travaux de Michel Odent, Isabelle Filliozat, Faber et Mazlish, Catherine Gueguen, Marie-Hélène Lahaye… 
 
         J’ai appris ce qu’était vraiment la physiologie de l’accouchement, mais aussi les violences que les femmes subissent pendant cette période de grande vulnérabilité. 
-    </div>
-    <div class="image">
-        <img src="/assets/images/soline-morel-doula/budda-tree.jpg"/>
     </div>
 </div>
 
