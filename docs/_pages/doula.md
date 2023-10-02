@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /doula
-title: "Qu'est-ce qu'une doula ?"
+title: "Pourquoi une doula ?"
 ---
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/soline-morel-doula/budda-tree.jpg"/>
+        <img src="/assets/images/doula/doula1.png"/>
     </div>
     <div class="texte">
 Le rôle d’une doula est de t’offrir un soutien affectif, moral et physique, pendant la période de la grossesse et du post-partum… mais pas que ! 
@@ -19,7 +19,7 @@ Je suis au service des couples, des familles, pour que chacun puisse trouver sa 
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/soline-morel-doula/sunset.jpg"/>
+        <img src="/assets/images/doula/doula2.jpg"/>
     </div>
     <div class="texte">
 Je suis aussi là pour t’informer sur tes droits, tes libertés de choix. Je suis convaincue que chaque femme porte en elle une puissance incroyable, que la maternité (entre autres) peut permettre de révéler.
@@ -32,7 +32,7 @@ Mon accompagnement n’est ni médical, ni thérapeutique, et dans le cadre d’
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/soline-morel-doula/sunset.jpg"/>
+        <img src="/assets/images/doula/doula3.jpg"/>
     </div>
     <div class="texte">
 Pendant la période du post-partum, je peux t’aider sur des tâches du quotidien, en cas de problème te mettre en lien avec des professionnels spécialisés, te soutenir dans ton allaitement… et tellement d’autres choses. Je m’adapte selon tes besoins et tes envies, il n’y a pas de modèle type d’accompagnement puisque chaque femme et chaque grossesse sont différentes.
@@ -41,7 +41,7 @@ Pendant la période du post-partum, je peux t’aider sur des tâches du quotidi
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/soline-morel-doula/budda-tree.jpg"/>
+        <img src="/assets/images/doula/doula4.jpg"/>
     </div>
     <div class="texte">
     <span>

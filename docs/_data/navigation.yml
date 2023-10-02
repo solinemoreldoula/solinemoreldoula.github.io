@@ -1,7 +1,7 @@
 main:
-  - title: "Qui suis-je ?"
+  - title: "Mon histoire"
     url: /soline-morel-doula
-  - title: "Qu'est-ce qu'une doula ?"
+  - title: "Pourquoi une doula ?"
     url: /doula
   - title: "Services"
     url: /services
