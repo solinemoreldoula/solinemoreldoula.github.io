@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /services
-title: "Mes accompagnements et tarifs"
+permalink: /accompagnements
+title: "Accompagnements"
 ---
 
 Comment ça se passe ?

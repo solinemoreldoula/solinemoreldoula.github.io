@@ -68,3 +68,7 @@ J’ai été complètement chamboulée et révoltée face à ce que doivent port
         Mon choix de devenir doula est autant une passion de prendre soin de toi qu'un acte militant, et je suis convaincue que c'est en changeant l'accueil de nos enfants et la façon dont sont traitées les femmes qu'on accèdera à une société plus juste. </p></div>
     </div>
 </div>
+
+<div style="display:flex;justify-content:center">
+<img src="/assets/images/me/emancipation.svg" style="width:50vw;height:auto;max-width:220px;"/>
+</div>

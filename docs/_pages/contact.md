@@ -7,7 +7,7 @@ title: "Contact"
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/mains/home.jpg"/>
+        <img src="/assets/images/contact.jpg"/>
     </div>
     <div class="texte">
     <span>
