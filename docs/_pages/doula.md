@@ -21,34 +21,6 @@ Je suis au service des couples, des familles, pour que chacun puisse trouver sa 
     </div>
 </div>
 
-<div class="here-for">
-<table>
-    <tr>
-        <td colspan="2">Une doula</td>
-    </tr>
-    <tr>
-        <td> Est là pour </td>
-        <td> Mais elle... </td>
-    </tr>
-    <tr>
-        <td> t'écouter </td>
-        <td> ne te conseille pas </td>
-    </tr>
-     <tr>
-        <td> te soutenir </td>
-        <td> ne te juge pas </td>
-    </tr>
-     <tr>
-        <td> te faire confiance </td>
-        <td> ne pratique aucun geste médical </td>
-    </tr>
-     <tr>
-        <td> t'aider sur des tâches pratiques du quotidien </td>
-        <td> ne prend pas la place du co-parent</td>
-    </tr>
-</table>
-</div>
-
 <div class="image-texte">
     <div class="image">
         <img src="/assets/images/doula/doula2.jpg"/>
@@ -57,7 +29,8 @@ Je suis au service des couples, des familles, pour que chacun puisse trouver sa 
     <p>
 Je suis aussi là pour t’informer sur tes droits, tes libertés de choix. Je suis convaincue que chaque femme porte en elle une puissance incroyable, que la maternité (entre autres) peut permettre de révéler.
 </p><p>
-Avoir connaissance et comprendre tes options permet de redonner le pouvoir à ta famille, pour que vous puissiez ensemble prendre les décisions qui vous correspondent le mieux. 
+Avoir connaissance et comprendre tes options permet de redonner le pouvoir à ta famille, pour que vous puissiez ensemble prendre les décisions qui vous correspondent le mieux. Je ne suis pas là pour prendre la place du co-parent, mais au contraire pour que chacun ait un espace d’écoute et puisse exprimer ses besoins.
+
 </p></div>
 </div>
 </div>

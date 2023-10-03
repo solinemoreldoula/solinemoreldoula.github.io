@@ -4,37 +4,66 @@ permalink: /accompagnements
 title: "Accompagnements"
 ---
 
-Comment ça se passe ?
+## Comment ça se passe ?
 
 Je suis disponible pour un premier contact téléphonique, pour faire connaissance et que tu puisses me poser les questions que tu souhaites sur mon accompagnement. 
-
 Les rendez-vous ont ensuite lieu à ton domicile, ou dans tout autre lieu où tu te sens bien, et durent environ 2h. 
-
-RDV ponctuel, selon tes besoins et la période de vie que tu traverses :  75 €
 
 Les rdv des forfaits sont à répartir entre la grossesse et le post-partum. Pendant cette période, je suis disponible par mail ou par téléphone. Je peux également te proposer un prêt de livres.
 
-Forfait 5 RDV : 350 €   (soit 70 € /rdv)
+<div class="container">
+  <div class="table-price">
+    <div class="pic-item">
+       <img src="/assets/images/doula/doula1.png"/>
+    </div>
+    <div class="description">
+      <h1 class="title">RDV ponctuel</h1>
+      <span class="price">70 € <br/>86 € libéral</span>
+    </div>
+  </div>
+  <div class="table-price">
+    <div class="pic-item">
+      <img src="/assets/images/doula/doula2.jpg"/>
+    </div>
+    <div class="description">
+     <h1 class="title">Forfait 5 RDV</h1>
+      <span class="price">325 €   (soit 65 € /rdv) <br/>400 € libéral</span>
+    </div>
+  </div>
+  <div class="table-price">
+    <div class="pic-item">
+     <img src="/assets/images/doula/doula3.jpg"/>
+    </div>
+    <div class="description">
+      <h1 class="title">Forfait 10 RDV</h1>
+      <span class="price"> 600 €   (soit 60 €/rdv)  <br/> 738 €  libéral</span>
+    </div>
+  </div>
+  </div>
 
-Forfait 10 RDV : 650 €   (soit 65 €/rdv)
+Paiement possible : 
+<ul>
+    <li> en libéral (chèques, virement bancaire) </li>
+    <li> en CESU (classique ou préfinancé) uniquement pour les forfaits </li>
+</ul>
 
+Ma rémunération en tant que doula ne devrait pas être un obstacle à un accompagnement. Je suis ouverte si besoin pour en discuter.
 
-*** inclure possibilité de bons cadeaux ***
-
-
-Paiement possible en libéral (chèques ou espèces) ou en CESU ????? (uniquement préfinancé ?) 
-
-
-”Mes tarifs ne doivent pas être un frein pour te faire accompagner, je suis ouverte pour en discuter.” => à reformuler
+<blockquote class="quote ">
+<span>Bon cadeau </span> Parfois on ne sait pas quoi offrir d’utile à une amie ou à de futurs parents : un accompagnement doula est la bonne idée ! Selon votre budget, un forfait post natal ou un rendez-vous ponctuel, je m’adapte à ta demande
+</blockquote>
 
 
 Je suis installée en sud-Loire, près de Nantes, et je me déplace à ton domicile également sur la Vendée et une partie ouest du Maine et Loire. 
 
 
+
+
  <!-- Map -->
  <div id="map" ></div>
  <p>
-<i>*Je me déplace gratuitement dans un rayon de 20km autour de mon domicile. Au delà, mes tarifs incluent des frais kilométriques.</i>
+<i>*Déplacement compris dans ma prestation ; au-delà de 20km de mon domicile, facturation de 0,60€/km (barème fiscal)  
+.</i>
 </p>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
@@ -87,3 +116,16 @@ Je suis installée en sud-Loire, près de Nantes, et je me déplace à ton domic
         initMap(); 
     };
 </script>
+
+
+
+## En pratique, la différence entre le paiement en CESU et en libéral ?
+
+Tu peux choisir de régler selon le régime libéral (tarifs de gauche). Aucune formalité supplémentaire dans ce cas.
+
+Tu peux aussi choisir de régler en Chèques Emploi Service Universels (CESU, tarifs de droite). Tu es l’employeur et j’interviens en tant que salarié pour des services à la personne à domicile. La déclaration est à faire sur [le site de l’URSSAF](https://www.cesu.urssaf.fr/info/accueil/s-informer-sur-le-cesu/tout-savoir/c-est-quoi-pour-qui.html).
+En utilisant le CESU, tu peux bénéficier d’un avantage fiscal pour les dépenses engagées pour l’emploi d’un salarié à domicile.
+
+Tu peux te simplifier les choses en optant pour le CESU+ : tu délègues alors le processus de rémunération (prélevé directement sur ton compte une fois les coordonnées bancaires saisies). Mon bulletin de salaire est généré automatiquement, il n’y a qu’une seule déclaration à faire en fin de mois. Ce service est gratuit et accessible à tous.
+
+Quelques comités d’entreprise, mutuelle, conseil départemental, proposent des CESU pré-financés (maintenant appelés Titres spéciaux de paiement). Je suis toujours salariée dans le cadre du service à la personne à domicile, le processus de déclaration à l’URSSAF est le même. 
