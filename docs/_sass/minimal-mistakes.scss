@@ -112,6 +112,7 @@ $right-sidebar-width-wide: 0px;
 
 /* Home */
 .quote {
+  text-align: justify;
   margin: auto;
   max-width: 1200px;
   font-size: 1em;
@@ -188,6 +189,11 @@ $right-sidebar-width-wide: 0px;
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+
+p {
+   text-align: justify;
+}
+
 /* Article layout */
 .image-texte {
   display: flex;
@@ -211,7 +217,6 @@ $right-sidebar-width-wide: 0px;
   @include breakpoint($medium) {
     padding-bottom: 10vh;
   }
-
   .image {
     flex-basis: 50%;
     flex-grow: 1;
@@ -239,6 +244,7 @@ $right-sidebar-width-wide: 0px;
     }
   }
   .texte {
+    text-align: justify;
     box-shadow: 10px 10px 10px $sarwell;
     display: flex;
     align-items: center;
