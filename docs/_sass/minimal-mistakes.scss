@@ -40,10 +40,10 @@ h1 {
 
 /* Fonts */
 @font-face {
-  font-family: JubilBa;
-  src: url("assets/fonts/JubilBa.otf") format("opentype");
+  font-family: Raleway;
+  src: url("../fonts/raleway-regular-webfont.woff2") format("opentype");
 }
-$header-font-family: "JubilBa-Bold", serif !default;
+$header-font-family: "Raleway", serif !default;
 $global-font-family: $header-font-family;
 $caption-font-family: $global-font-family;
 $menu-font-family: $header-font-family;
