@@ -64,7 +64,7 @@ $menu-font-family: $header-font-family;
 .vertical-spacer {
   padding-bottom: 20vh;
 }
-$max-width: 1400px;
+$max-width: 1300px;
 body {
   overflow-x: hidden;
 }
@@ -297,7 +297,7 @@ html {
 .container .table-price {
   background: #F3F2F6;
   flex-basis: 33%;
-  max-width: 400px;
+  max-width: 380px;
   min-width: 250px;
   height: 350px;
   margin: 1% 1.5%;
@@ -379,4 +379,9 @@ html {
   top: 50%;
   display: block;
   position: absolute;
+}
+
+.zeFooter {
+  display: flex;
+  justify-content: space-between;
 }

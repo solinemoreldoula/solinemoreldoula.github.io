@@ -21,3 +21,8 @@ title: "Contact"
     </span>
     </div>
 </div>
+
+
+<div style="display:flex;justify-content:center">
+<img src="/assets/images/come.jpg" style="width:50vw;height:auto;max-width:600px;"/>
+</div>
