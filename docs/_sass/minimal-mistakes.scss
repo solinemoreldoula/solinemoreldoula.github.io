@@ -95,6 +95,9 @@ $right-sidebar-width-wide: 0px;
 }
 
 /* Navbar */
+.masthead__inner-wrap {
+  max-width: 8000px !important;
+}
 .masthead {
   position: fixed !important;
   width: 100vw;

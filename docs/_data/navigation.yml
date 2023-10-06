@@ -5,5 +5,7 @@ main:
     url: /doula
   - title: "Accompagnements"
     url: /accompagnements
+  - title: "L'enfant-phare"
+    url: /enfant-phare
   - title: "Contact"
     url: /contact

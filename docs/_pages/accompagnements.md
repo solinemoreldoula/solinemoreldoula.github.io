@@ -18,7 +18,7 @@ Selon tes besoins et la période de vie que tu traverses, je suis là pour te so
     </div>
     <div class="description">
       <h1 class="title">RDV ponctuel</h1>
-      <span class="price">86 € libéral</span>
+      <span class="price">70 € <br/> 86 € libéral</span>
     </div>
     </a>
   </div>
@@ -55,7 +55,7 @@ Les accompagnements plus longs nous permettent de créer un lien de confiance du
 Paiement possible : 
 <ul>
     <li> en libéral (chèques, virement bancaire) </li>
-    <li> en CESU (classique ou préfinancé) uniquement pour les forfaits </li>
+    <li> en CESU (classique ou préfinancé)</li>
 </ul>
 
 Ma rémunération en tant que doula ne devrait pas être un obstacle à un accompagnement. Je suis ouverte si besoin pour en discuter.
