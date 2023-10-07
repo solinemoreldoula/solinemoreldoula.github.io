@@ -6,9 +6,13 @@ title: "Accompagnements"
 
 ## Comment ça se passe ?
 
-Je suis disponible pour un premier contact téléphonique, pour faire connaissance et que tu puisses me poser les questions que tu souhaites sur mon accompagnement. 
+Je suis disponible pour un premier contact téléphonique, pour faire connaissance et que tu puisses me poser les questions que tu souhaites sur mon accompagnement.
+
+
 Les rendez-vous ont ensuite lieu à ton domicile, ou dans tout autre lieu où tu te sens bien, et durent environ 2h. 
-Selon tes besoins et la période de vie que tu traverses, je suis là pour te soutenir face à une problématique précise, répondre à un besoin d’information ou simplement t’offrir un espace d’écoute libre et sans jugement. Pour savoir comment se déroulent les rendez-vous, je t'invite à consulter [cette page](/doula).
+Selon tes besoins et la période de vie que tu traverses, je suis là pour te soutenir face à une problématique précise, répondre à un besoin d’information ou simplement t’offrir un espace d’écoute libre et sans jugement.
+
+ Pour savoir comment se déroulent les rendez-vous, je t'invite à consulter [cette page](/doula).
 
 <div class="container">
   <div class="table-price">
@@ -47,7 +51,9 @@ Selon tes besoins et la période de vie que tu traverses, je suis là pour te so
   </div>
 
 
-Les accompagnements plus longs nous permettent de créer un lien de confiance durable. Dans le cadre d’une grossesse par exemple, nous avons le temps d’aborder différentes thématiques selon tes demandes (le déclenchement, la péridurale, allaitement ou biberon, le post-partum, le sommeil, le portage, la reprise du travail, le sevrage…).  Les rendez-vous des forfaits peuvent être répartis entre la grossesse et le post-partum. Pendant cette période, je suis disponible par mail ou par téléphone. Je peux également te proposer un prêt de livres.
+Les accompagnements plus longs nous permettent de créer un lien de confiance durable. Dans le cadre d’une grossesse par exemple, nous avons le temps d’aborder différentes thématiques selon tes demandes (le déclenchement, la péridurale, allaitement ou biberon, le post-partum, le sommeil, le portage, la reprise du travail, le sevrage…).  
+
+Les rendez-vous des forfaits peuvent être répartis entre la grossesse et le post-partum. Pendant cette période, je suis disponible par mail ou par téléphone. Je peux également te proposer un prêt de livres.
 
 ## Pour le règlement ?
 

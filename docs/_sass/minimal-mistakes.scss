@@ -262,6 +262,9 @@ p {
         color: $light-blue;
       }
     }
+    p {
+      margin: 1em 0 1em;
+    }
 
     @include breakpoint($medium) {
       min-height: 300px;
@@ -400,8 +403,4 @@ html {
 .zeFooter {
   display: flex;
   justify-content: space-between;
-}
-
-.site-title {
-  display:none !important;
 }
