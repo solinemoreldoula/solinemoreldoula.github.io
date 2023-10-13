@@ -205,15 +205,22 @@ p {
   justify-content: center;
   width: 100%;
   margin: auto;
-  padding-bottom: 2vh;
+  padding-bottom: 4vh;
+
+  @include breakpoint($medium) {
+    padding-bottom: 2vh;
+  }
 
   &.odd {
     flex-direction: row-reverse;
-    .image {
-      box-shadow: 10px 10px 10px $sarwell;
-    }
-    .texte {
-      box-shadow: 0px 0px 0px $sarwell;
+
+    @include breakpoint($medium) {
+      .image {
+        box-shadow: 10px 10px 10px $sarwell;
+      }
+      .texte {
+        box-shadow: 0px 0px 0px $sarwell;
+      }
     }
   }
 
