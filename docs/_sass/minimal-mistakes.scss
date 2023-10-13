@@ -404,3 +404,10 @@ html {
   display: flex;
   justify-content: space-between;
 }
+
+.site-title {
+    padding-right: 40vw;
+    @include breakpoint($medium) {
+      padding-right: 0vw;
+    }
+}
