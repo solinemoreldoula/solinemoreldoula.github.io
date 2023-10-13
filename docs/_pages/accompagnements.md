@@ -50,7 +50,7 @@ Selon tes besoins et la période de vie que tu traverses, je suis là pour te so
   </div>
   </div>
 
-
+<a style='text-align:center;width:100%;display:block' href="#en-pratique-la-différence-entre-le-paiement-en-cesu-et-en-libéral-">Pourquoi 2 tarifs différents ?</a><br/>
 Les accompagnements plus longs nous permettent de créer un lien de confiance durable. Dans le cadre d’une grossesse par exemple, nous avons le temps d’aborder différentes thématiques selon tes demandes (le déclenchement, la péridurale, allaitement ou biberon, le post-partum, le sommeil, le portage, la reprise du travail, le sevrage…).  
 
 Les rendez-vous des forfaits peuvent être répartis entre la grossesse et le post-partum. Pendant cette période, je suis disponible par mail ou par téléphone. Je peux également te proposer un prêt de livres.
@@ -159,11 +159,12 @@ Je suis installée en sud-Loire, près de Nantes, et je me déplace à ton domic
 
 ## En pratique, la différence entre le paiement en CESU et en libéral ?
 
-Tu peux choisir de régler selon le régime libéral. Aucune formalité supplémentaire dans ce cas.
+Tu peux choisir de régler selon le régime libéral. Aucune formalité supplémentaire dans ce cas. Le tarif libéral est plus élevé car il est sujet à des cotisations supplémentaires.
 
-Tu peux aussi choisir de régler en Chèques Emploi Service Universels (CESU). Tu es l’employeur et j’interviens en tant que salarié pour des services à la personne à domicile. La déclaration est à faire sur [le site de l’URSSAF](https://www.cesu.urssaf.fr/info/accueil/s-informer-sur-le-cesu/tout-savoir/c-est-quoi-pour-qui.html).
+
+Tu peux aussi choisir de régler en Chèques Emploi Service Universels (CESU). Tu es l’employeur et j’interviens en tant que salariée pour des services à la personne à domicile. La déclaration est à faire sur [le site de l’URSSAF](https://www.cesu.urssaf.fr/info/accueil/s-informer-sur-le-cesu/tout-savoir/c-est-quoi-pour-qui.html).
 En utilisant le CESU, tu peux bénéficier d’un avantage fiscal pour les dépenses engagées pour l’emploi d’un salarié à domicile.
 
 Tu peux te simplifier les choses en optant pour le CESU+ : tu délègues alors le processus de rémunération (prélevé directement sur ton compte une fois les coordonnées bancaires saisies). Mon bulletin de salaire est généré automatiquement, il n’y a qu’une seule déclaration à faire en fin de mois. Ce service est gratuit et accessible à tous.
 
-Quelques comités d’entreprise, mutuelle, conseil départemental, proposent des CESU pré-financés (maintenant appelés Titres spéciaux de paiement). Je suis toujours salariée dans le cadre du service à la personne à domicile, le processus de déclaration à l’URSSAF est le même. 
+Quelques comités d’entreprise, mutuelles, conseils départementaux, proposent des CESU pré-financés (maintenant appelés Titres spéciaux de paiement). Je suis toujours salariée dans le cadre du service à la personne à domicile, le processus de déclaration à l’URSSAF est le même. 

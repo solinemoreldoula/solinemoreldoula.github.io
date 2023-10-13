@@ -55,6 +55,6 @@ Pendant la période du post-partum, je peux t’aider sur des tâches du quotidi
     <p>
 Je suis aussi là pour t’accompagner dans ton parcours de PMA ou d’adoption, dans le cadre d’un IVG, d’un arrêt naturel de grossesse ……
 </p><p>
-Si tu as d’autres questions, appelles-moi ou consultes le site de l’association Doulas de France, dont je suis signataire de la <a href="https://doulas.info/association/charte/" target="external">charte</a>  </p></div>
+Si tu as d’autres questions, appelles-moi ou consultes le site de l’association Doulas de France, dont je suis signataire de la <a href="https://doulas.info/association/charte/" target="external">charte</a> . </p></div>
     </div>
 </div>
