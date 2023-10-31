@@ -54,7 +54,37 @@ Pendant la période du post-partum, je peux t’aider sur des tâches du quotidi
     <div class="texte"><div>
     <p>
 Je suis aussi là pour t’accompagner dans ton parcours de PMA ou d’adoption, dans le cadre d’un IVG, d’un arrêt naturel de grossesse ……
+</p><p>Si tu as d’autres questions, appelles-moi ou consultes le site de l’association Doulas de France, dont je suis signataire de la <a href="https://doulas.info/association/charte/" target="external">charte</a> . </p>
+</div>
+    </div>
+</div>
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/doula/doula5.jpg"/>
+    </div>
+    <div class="texte"><div><p>
+Après avoir lu tout ça, tu te demandes peut-être encore à quoi sert vraiment une doula ? </p><p>
+Tu as déjà une sage-femme pour le suivi médical, ta famille et tes amis pour te soutenir…
+Mais est-ce que ta sage-femme a vraiment le temps pour t’écouter raconter ce que tu ressens ? Est-ce que tu oses tout aborder avec tes amis, même les sujets les plus difficiles ? Est-ce que ta mère ou ta sœur te proposent leur aide sans t’imposer leur point de vue ?
+</p>
+
+</div>
+    </div>
+</div>
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/doula/doula6.jpg"/>
+    </div>
+    <div class="texte"><div>
+    <p>
+Dans un accompagnement doula, je prends le temps de t’écouter. Je t'accueille comme tu es. Pendant nos rencontres, il n’y a pas de jugement, pas de biais, ni de conseils non-sollicités. Peu m’importe que tu allaites ou que tu donnes le biberon, que tu ais une poussette ou que tu sois adepte du portage. Ce qui compte, c’est que ça te convienne à TOI. 
+
 </p><p>
-Si tu as d’autres questions, appelles-moi ou consultes le site de l’association Doulas de France, dont je suis signataire de la <a href="https://doulas.info/association/charte/" target="external">charte</a> . </p></div>
+Et ça fait toute la différence pour aborder plus sereinement une naissance ou traverser une période de vie difficile.
+Tu peux consulter ces 
+<a href="https://doulas.info/annuaire/temoignages-de-parents" target="external">témoignages de parents sur leur vécu d'un accompagnement doula</a>.
+</p></div>
     </div>
 </div>
