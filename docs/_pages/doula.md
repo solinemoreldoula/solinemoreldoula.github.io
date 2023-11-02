@@ -84,7 +84,7 @@ Dans un accompagnement doula, je prends le temps de t’écouter. Je t'accueille
 </p><p>
 Et ça fait toute la différence pour aborder plus sereinement une naissance ou traverser une période de vie difficile.
 Tu peux consulter ces 
-<a href="https://doulas.info/annuaire/temoignages-de-parents" target="external">témoignages de parents sur leur vécu d'un accompagnement doula</a>.
+<a href="https://doulas.info/annuaire/temoignages-de-parents" target="external">témoignages de parents</a>.
 </p></div>
     </div>
 </div>
