@@ -5,5 +5,7 @@ main:
     url: /doula
   - title: "Accompagnements"
     url: /accompagnements
+  - title: "Cuisine"
+    url: /cuisine
   - title: "Contact"
     url: /contact
