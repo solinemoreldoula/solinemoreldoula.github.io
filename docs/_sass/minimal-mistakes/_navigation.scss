@@ -193,7 +193,6 @@
 
     &.site-logo {
       margin-left: 0;
-      margin-right: 60vw;
       @include breakpoint($medium) {
         margin-right: 0.5rem;
       }
@@ -201,6 +200,9 @@
 
     &.site-title {
       margin-left: 0;
+      @include breakpoint($medium) {
+        margin-right: 0rem;
+      }
     }
   }
   

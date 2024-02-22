@@ -413,7 +413,7 @@ html {
 }
 
 .site-title {
-    padding-right: 40vw;
+    padding-right: 20vw;
     @include breakpoint($medium) {
       padding-right: 0vw;
     }
