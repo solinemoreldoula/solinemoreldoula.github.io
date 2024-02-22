@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /cuisine
-title: "Cuisine et pâtisseries à domicile"
+title: "Cuisine et pâtisserie à domicile"
 ---
 
 <div class="image-texte odd">
